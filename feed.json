@@ -1,0 +1,42 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "KAINTECH VIETNAM",
+    "description": "",
+    "home_page_url": "https://kaintech-vn.github.io",
+    "feed_url": "https://kaintech-vn.github.io/feed.json",
+    "user_comment": "",
+    "icon": "https://kaintech-vn.github.io/media/website/logo-test.jpg",
+    "author": {
+        "name": "Kaintech"
+    },
+    "items": [
+        {
+            "id": "https://kaintech-vn.github.io/san-pham-1-3.html",
+            "url": "https://kaintech-vn.github.io/san-pham-1-3.html",
+            "title": "Sản phẩm 2",
+            "image": "https://kaintech-vn.github.io/media/posts/3/logo-test.jpg",
+            "author": {
+                "name": "Kaintech"
+            },
+            "tags": [
+                   "Sản phẩm"
+            ],
+            "date_published": "2026-06-09T14:20:18+07:00",
+            "date_modified": "2026-06-09T14:23:14+07:00"
+        },
+        {
+            "id": "https://kaintech-vn.github.io/san-pham-1-2.html",
+            "url": "https://kaintech-vn.github.io/san-pham-1-2.html",
+            "title": "Sản phẩm 1",
+            "image": "https://kaintech-vn.github.io/media/posts/2/logo-test.jpg",
+            "author": {
+                "name": "Kaintech"
+            },
+            "tags": [
+                   "Sản phẩm"
+            ],
+            "date_published": "2026-06-09T14:20:15+07:00",
+            "date_modified": "2026-06-09T14:23:07+07:00"
+        }
+    ]
+}
