@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "KAINTECH Mechanical and Automation",
+    "title": "Công ty TNHH Phân phối thiết bị tự động hóa KAINTECH",
     "description": "",
     "home_page_url": "https://kaintech-vn.github.io",
     "feed_url": "https://kaintech-vn.github.io/feed.json",
@@ -10,5 +10,34 @@
         "name": "KAINTECH"
     },
     "items": [
+        {
+            "id": "https://kaintech-vn.github.io/san-pham-2.html",
+            "url": "https://kaintech-vn.github.io/san-pham-2.html",
+            "title": "Sản phẩm 2",
+            "author": {
+                "name": "KAINTECH"
+            },
+            "tags": [
+                   "Động cơ servo",
+                   "Sản phẩm",
+                   "Biến tần - Động cơ"
+            ],
+            "date_published": "2026-06-11T14:20:14+07:00",
+            "date_modified": "2026-06-11T14:20:14+07:00"
+        },
+        {
+            "id": "https://kaintech-vn.github.io/san-pham-1.html",
+            "url": "https://kaintech-vn.github.io/san-pham-1.html",
+            "title": "Sản phẩm 1",
+            "author": {
+                "name": "KAINTECH"
+            },
+            "tags": [
+                   "Sản phẩm",
+                   "Bộ điều khiển"
+            ],
+            "date_published": "2026-06-11T14:09:03+07:00",
+            "date_modified": "2026-06-11T14:12:20+07:00"
+        }
     ]
 }
