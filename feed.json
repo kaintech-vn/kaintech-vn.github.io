@@ -11,8 +11,8 @@
     },
     "items": [
         {
-            "id": "https://kaintech-vn.github.io/san-pham/san-pham-2/",
-            "url": "https://kaintech-vn.github.io/san-pham/san-pham-2/",
+            "id": "https://kaintech-vn.github.io/san-pham-2/",
+            "url": "https://kaintech-vn.github.io/san-pham-2/",
             "title": "Sản phẩm 2",
             "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in euismod mauris. Fusce viverra, purus vitae vulputate tincidunt, justo odio viverra massa, ut mollis nisi odio ut est. Donec ac leo in ante eleifend scelerisque quis vel velit. Ut euismod suscipit lacus, non tempor tellus&hellip;",
             "content_html": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in euismod mauris. Fusce viverra, purus vitae vulputate tincidunt, justo odio viverra massa, ut mollis nisi odio ut est. Donec ac leo in ante eleifend scelerisque quis vel velit. Ut euismod suscipit lacus, non tempor tellus egestas ut. Morbi ut odio purus. Quisque dictum ex sed mauris lacinia ornare. Interdum et malesuada fames ac ante ipsum primis in faucibus. Ut eget metus at mauris vulputate laoreet. Morbi volutpat nibh in odio pulvinar tincidunt. Sed cursus erat ut faucibus tincidunt. Nam finibus dictum quam, non consequat felis gravida non. Nullam dapibus gravida sem. Donec at aliquet massa. Suspendisse fringilla ut velit eget vehicula. Vestibulum consectetur metus quis ultricies condimentum. Fusce ultricies enim nec mauris semper, sed mattis eros hendrerit. </p>",
@@ -29,8 +29,8 @@
             "date_modified": "2026-06-11T15:44:04+07:00"
         },
         {
-            "id": "https://kaintech-vn.github.io/san-pham/san-pham-1/",
-            "url": "https://kaintech-vn.github.io/san-pham/san-pham-1/",
+            "id": "https://kaintech-vn.github.io/san-pham-1/",
+            "url": "https://kaintech-vn.github.io/san-pham-1/",
             "title": "Sản phẩm 1",
             "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in euismod mauris. Fusce viverra, purus vitae vulputate tincidunt, justo odio viverra massa, ut mollis nisi odio ut est. Donec ac leo in ante eleifend scelerisque quis vel velit. Ut euismod suscipit lacus, non tempor tellus&hellip;",
             "content_html": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in euismod mauris. Fusce viverra, purus vitae vulputate tincidunt, justo odio viverra massa, ut mollis nisi odio ut est. Donec ac leo in ante eleifend scelerisque quis vel velit. Ut euismod suscipit lacus, non tempor tellus egestas ut. Morbi ut odio purus. Quisque dictum ex sed mauris lacinia ornare. Interdum et malesuada fames ac ante ipsum primis in faucibus. Ut eget metus at mauris vulputate laoreet. Morbi volutpat nibh in odio pulvinar tincidunt. Sed cursus erat ut faucibus tincidunt. Nam finibus dictum quam, non consequat felis gravida non. Nullam dapibus gravida sem. Donec at aliquet massa. Suspendisse fringilla ut velit eget vehicula. Vestibulum consectetur metus quis ultricies condimentum. Fusce ultricies enim nec mauris semper, sed mattis eros hendrerit. </p>",
