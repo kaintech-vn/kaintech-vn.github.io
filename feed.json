@@ -22,11 +22,12 @@
             },
             "tags": [
                    "Động cơ servo",
+                   "Thương hiệu 1",
                    "Sản phẩm",
                    "Biến tần - Động cơ"
             ],
             "date_published": "2026-06-11T14:20:14+07:00",
-            "date_modified": "2026-06-11T15:44:04+07:00"
+            "date_modified": "2026-06-13T08:14:46+07:00"
         },
         {
             "id": "https://kaintech-vn.github.io/san-pham-1/",
@@ -39,11 +40,12 @@
                 "name": "KAINTECH"
             },
             "tags": [
+                   "Thương hiệu 1",
                    "Sản phẩm",
                    "Bộ điều khiển"
             ],
             "date_published": "2026-06-11T14:09:03+07:00",
-            "date_modified": "2026-06-11T15:43:55+07:00"
+            "date_modified": "2026-06-13T08:14:41+07:00"
         }
     ]
 }
