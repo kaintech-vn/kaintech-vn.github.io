@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Công ty TNHH Phân phối thiết bị tự động hóa KAINTECH</title>
-    <link href="https://kaintech-vn.github.io/feed.xml" rel="self" />
-    <link href="https://kaintech-vn.github.io" />
+    <link href="https://kaintech.com.vn/feed.xml" rel="self" />
+    <link href="https://kaintech.com.vn" />
     <updated>2026-06-24T19:52:48+07:00</updated>
     <author>
         <name>KAINTECH</name>
     </author>
-    <id>https://kaintech-vn.github.io</id>
+    <id>https://kaintech.com.vn</id>
 
     <entry>
         <title>Sản phẩm 2</title>
         <author>
             <name>KAINTECH</name>
         </author>
-        <link href="https://kaintech-vn.github.io/san-pham-2/"/>
-        <id>https://kaintech-vn.github.io/san-pham-2/</id>
-        <media:content url="https://kaintech-vn.github.io/media/posts/9/logo.png" medium="image" />
+        <link href="https://kaintech.com.vn/san-pham-2/"/>
+        <id>https://kaintech.com.vn/san-pham-2/</id>
+        <media:content url="https://kaintech.com.vn/media/posts/9/logo.png" medium="image" />
             <category term="Động cơ servo"/>
             <category term="Thương hiệu 1"/>
             <category term="Sản phẩm"/>
@@ -25,13 +25,13 @@
         <updated>2026-06-11T14:20:14+07:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://kaintech-vn.github.io/media/posts/9/logo.png" alt="" />
+                        <img src="https://kaintech.com.vn/media/posts/9/logo.png" alt="" />
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in euismod mauris. Fusce viverra, purus vitae vulputate tincidunt, justo odio viverra massa, ut mollis nisi odio ut est. Donec ac leo in ante eleifend scelerisque quis vel velit. Ut euismod suscipit lacus, non tempor tellus&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://kaintech-vn.github.io/media/posts/9/logo.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://kaintech.com.vn/media/posts/9/logo.png" class="type:primaryImage" alt="" /></p>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in euismod mauris. Fusce viverra, purus vitae vulputate tincidunt, justo odio viverra massa, ut mollis nisi odio ut est. Donec ac leo in ante eleifend scelerisque quis vel velit. Ut euismod suscipit lacus, non tempor tellus egestas ut. Morbi ut odio purus. Quisque dictum ex sed mauris lacinia ornare. Interdum et malesuada fames ac ante ipsum primis in faucibus. Ut eget metus at mauris vulputate laoreet. Morbi volutpat nibh in odio pulvinar tincidunt. Sed cursus erat ut faucibus tincidunt. Nam finibus dictum quam, non consequat felis gravida non. Nullam dapibus gravida sem. Donec at aliquet massa. Suspendisse fringilla ut velit eget vehicula. Vestibulum consectetur metus quis ultricies condimentum. Fusce ultricies enim nec mauris semper, sed mattis eros hendrerit. </p>
             ]]>
         </content>
@@ -41,9 +41,9 @@
         <author>
             <name>KAINTECH</name>
         </author>
-        <link href="https://kaintech-vn.github.io/san-pham-1/"/>
-        <id>https://kaintech-vn.github.io/san-pham-1/</id>
-        <media:content url="https://kaintech-vn.github.io/media/posts/8/logo.png" medium="image" />
+        <link href="https://kaintech.com.vn/san-pham-1/"/>
+        <id>https://kaintech.com.vn/san-pham-1/</id>
+        <media:content url="https://kaintech.com.vn/media/posts/8/logo.png" medium="image" />
             <category term="Thương hiệu 1"/>
             <category term="Sản phẩm"/>
             <category term="Bộ điều khiển"/>
@@ -51,13 +51,13 @@
         <updated>2026-06-11T14:09:03+07:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://kaintech-vn.github.io/media/posts/8/logo.png" alt="" />
+                        <img src="https://kaintech.com.vn/media/posts/8/logo.png" alt="" />
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in euismod mauris. Fusce viverra, purus vitae vulputate tincidunt, justo odio viverra massa, ut mollis nisi odio ut est. Donec ac leo in ante eleifend scelerisque quis vel velit. Ut euismod suscipit lacus, non tempor tellus&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://kaintech-vn.github.io/media/posts/8/logo.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://kaintech.com.vn/media/posts/8/logo.png" class="type:primaryImage" alt="" /></p>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in euismod mauris. Fusce viverra, purus vitae vulputate tincidunt, justo odio viverra massa, ut mollis nisi odio ut est. Donec ac leo in ante eleifend scelerisque quis vel velit. Ut euismod suscipit lacus, non tempor tellus egestas ut. Morbi ut odio purus. Quisque dictum ex sed mauris lacinia ornare. Interdum et malesuada fames ac ante ipsum primis in faucibus. Ut eget metus at mauris vulputate laoreet. Morbi volutpat nibh in odio pulvinar tincidunt. Sed cursus erat ut faucibus tincidunt. Nam finibus dictum quam, non consequat felis gravida non. Nullam dapibus gravida sem. Donec at aliquet massa. Suspendisse fringilla ut velit eget vehicula. Vestibulum consectetur metus quis ultricies condimentum. Fusce ultricies enim nec mauris semper, sed mattis eros hendrerit. </p>
             ]]>
         </content>
